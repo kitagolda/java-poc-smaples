@@ -1,0 +1,10 @@
+2025-02-14 10:21:03,441 INFO  Starting server on port 8080
+2025-02-14 10:21:04,102 INFO  Connected to database: users-db-prod
+2025-02-14 10:21:04,109 WARN  Connection pool near limit (87% used)
+2025-02-14 10:21:06,551 INFO  Received request GET /api/v1/login
+2025-02-14 10:21:06,772 ERROR Failed to fetch user profile: timeout after 300ms
+2025-02-14 10:21:07,003 INFO  New session created for userId=38492
+2025-02-14 10:21:10,844 WARN  High response latency detected: 912ms
+2025-02-14 10:21:13,550 INFO  Received request GET /api/v1/data
+2025-02-14 10:21:13,751 INFO  Request completed successfully
+2025-02-14 10:21:14,003 ERROR Disk write failure while saving session state
