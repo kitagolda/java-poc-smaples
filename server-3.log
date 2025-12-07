@@ -1,0 +1,10 @@
+2025-02-14 12:44:00,993 INFO  Metrics collector started
+2025-02-14 12:44:01,105 INFO  CPU load: 43%
+2025-02-14 12:44:01,208 INFO  Memory usage: 2.3GB / 8GB
+2025-02-14 12:44:01,330 WARN  High GC frequency detected (15 collections/min)
+2025-02-14 12:44:01,550 error Metric push failed: invalid payload size
+2025-02-14 12:44:03,018 INFO  CPU load: 47%
+2025-02-14 12:44:03,221 INFO  Memory usage: 2.4GB / 8GB
+2025-02-14 12:44:03,415 INFO  Metrics batch sent successfully
+2025-02-14 12:44:03,616 WARN  Slow I/O operation detected (write latency 620ms)
+2025-02-14 12:44:04,118 ERROR Disk quota exceeded while rotating logs
