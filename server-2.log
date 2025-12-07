@@ -1,0 +1,10 @@
+2025-02-14 11:02:14,010 INFO  Worker thread #3 started
+2025-02-14 11:02:14,112 INFO  Loading configuration: /etc/app/config.yaml
+2025-02-14 11:02:14,223 WARN  Deprecated configuration key detected: "maxConnections"
+2025-02-14 11:02:14,550 INFO  Connecting to cache service
+2025-02-14 11:02:14,900 ERROR Failed to connect to Redis at 10.1.2.8:6379 (connection refused)
+2025-02-14 11:02:15,410 INFO  Cache connection retry #1 succeeded
+2025-02-14 11:02:17,705 INFO  Background cleanup finished in 64ms
+2025-02-14 11:02:20,018 INFO  Received event JOB_START id=93284
+2025-02-14 11:02:20,221 ERROR Exception while processing job 93284: null pointer
+2025-02-14 11:02:20,222 WARN  Retrying job 93284 in 500ms
